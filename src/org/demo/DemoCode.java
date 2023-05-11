@@ -27,7 +27,10 @@ public class DemoCode {
 		for (String q1 : split) {
 			System.out.println(q1);
 		}
+
 	System.out.println("good afternoon");
+		System.out.println("welcome");
+
 	}
 	
 }
